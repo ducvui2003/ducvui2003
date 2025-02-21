@@ -84,6 +84,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="huynhit24" /> 
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ducvui2003&theme=react)](https://github.com/ducvui2003/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ducvui2003&theme=react)]
 
 -->
